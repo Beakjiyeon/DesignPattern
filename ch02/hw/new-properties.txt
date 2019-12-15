@@ -1,0 +1,8 @@
+#written by FileProperties
+#Wed Sep 26 12:38:07 KST 2018
+Name=Beak Jiyeon
+StudentId=20171078
+bornYear=1998
+Location=Seoul
+Year=2018
+year=1999
